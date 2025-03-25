@@ -1,6 +1,7 @@
 ### SOURCE:
 ### https://lots-project.com/
 ### Developed By @mrd0x
+### Cloned by ieso
 Website,Tags,ServiceProvider
 raw.githubusercontent.com,"Phishing; C&C; Download",Github
 github.com,"Phishing; Download",Github
